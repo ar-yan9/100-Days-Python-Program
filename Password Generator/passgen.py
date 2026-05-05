@@ -47,4 +47,4 @@ password = ""
 for char in password_list:
     password += char
 
-print("Hard password:", password)
+print("Hard password:", password) 
