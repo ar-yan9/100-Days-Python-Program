@@ -84,4 +84,4 @@ async def analyze_resume(file: UploadFile = File(...), job_desc: str = Form(...)
         "filename": file.filename,
         "analysis": result,
         "improved_file_path": saved_file
-    }
+    } 
