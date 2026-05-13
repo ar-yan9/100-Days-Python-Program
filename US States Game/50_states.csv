@@ -1,0 +1,51 @@
+state,x,y
+Alabama,139,-77
+Alaska,-210,-170
+Arizona,-310,-77
+Arkansas,75,-55
+California,-400,-15
+Colorado,-185,-15
+Connecticut,310,75
+Delaware,285,45
+Florida,175,-140
+Georgia,175,-75
+Hawaii,-355,-155
+Idaho,-340,90
+Illinois,95,20
+Indiana,140,25
+Iowa,55,45
+Kansas,-15,-10
+Kentucky,150,0
+Louisiana,75,-120
+Maine,335,120
+Maryland,285,30
+Massachusetts,320,90
+Michigan,150,70
+Minnesota,45,90
+Mississippi,105,-85
+Missouri,70,-5
+Montana,-255,110
+Nebraska,-60,30
+Nevada,-370,20
+New Hampshire,310,95
+New Jersey,295,55
+New Mexico,-205,-65
+New York,270,75
+North Carolina,230,-25
+North Dakota,-45,110
+Ohio,190,30
+Oklahoma,-15,-55
+Oregon,-390,105
+Pennsylvania,255,45
+Rhode Island,325,75
+South Carolina,220,-55
+South Dakota,-55,65
+Tennessee,145,-40
+Texas,-60,-105
+Utah,-305,15
+Vermont,295,105
+Virginia,245,10
+Washington,-375,155
+West Virginia,210,10
+Wisconsin,100,70
+Wyoming,-230,55
