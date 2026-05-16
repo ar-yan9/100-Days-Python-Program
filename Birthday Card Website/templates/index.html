@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Card</title>
+    <style>
+        body {
+            background-color: #f8c8d4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+        .card {
+            background-color: white;
+            border-radius: 20px;
+            padding: 50px;
+            text-align: center;
+            box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #e91e8c;
+            font-size: 3em;
+        }
+        p {
+            color: #555;
+            font-size: 1.2em;
+        }
+        .emoji {
+            font-size: 4em;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="emoji">🎂🎉🎈</div>
+        {% if name %}
+            <h1>Happy Birthday, {{ name }}!</h1>
+        {% else %}
+            <h1>Happy Birthday!</h1>
+        {% endif %}
+        <p>Wishing you a wonderful day filled with joy and happiness!</p>
+        <p>🎁 May all your dreams come true! 🎁</p>
+    </div>
+</body>
+</html>
